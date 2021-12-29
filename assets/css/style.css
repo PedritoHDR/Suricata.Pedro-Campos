@@ -1,0 +1,40 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+.bg-menu{
+    background: #E83E8C;
+}
+
+.navbar-brand img{
+    width: 132px;
+    height: 53px;
+}
+
+h1{
+    font-weight: bold;
+    font-size: 60px;
+    color: #707070;
+}
+
+@media (max-width:768px){
+    h1{
+        font-size: 35px;
+    }
+}
+
+.pago{
+    background: #17A2B8;
+    color: #ffffff;
+}
+
+footer{
+    background: #E83E8C;
+}
+
+footer img{
+    width: 53px;
+    height: 100px;
+}
